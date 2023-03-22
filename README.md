@@ -1,0 +1,1 @@
+# astra_linux_1.6-doc
